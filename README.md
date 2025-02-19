@@ -45,5 +45,5 @@ Code Intellisense Improvements:
 And many other improvements and bug fixes. See NEWS.md for full information.
 
 ## Acknowledgement
-
+[source Repository]([https://github.com/lua/lua/tree/v5.4.6](https://github.com/royqh1979/RedPanda-CPP)) is used as Source Code.
 [Lua](https://www.lua.org/) 5.4.6 ([source mirror](https://github.com/lua/lua/tree/v5.4.6)) is used as add-on runtime.
