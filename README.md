@@ -4,8 +4,8 @@ Red Panda C++ (Old name: Red Panda Dev-C++ 7) is an fast ,lightweight, open sour
 Simplified Chinese Website: [http://royqh.net/redpandacpp](http://royqh.net/redpandacpp)
 
 English Website: [https://sourceforge.net/projects/redpanda-cpp](https://sourceforge.net/projects/redpanda-cpp)
-
-[Donate to this project](https://ko-fi.com/royqh1979)
+Download For macOS: [https://github.com/rajibdpi/RedPanda-CPP/blob/main/dist/RedPandaIDE-3.3.3098.beta-arm64.tar.xz]
+(https://github.com/rajibdpi/RedPanda-CPP/blob/main/dist/RedPandaIDE-3.3.3098.beta-arm64.tar.xz)
 
 New Features (Compared with Red Panda Dev-C++ 6):
 * Cross Platform (Windows/Linux/MacOS)
