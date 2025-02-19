@@ -1,0 +1,13 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="resources/themes/random_light.lua">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/themes/random_light.lua</file>
+<file alias="resources/themes/system.lua">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/themes/system.lua</file>
+<file alias="resources/themes/contrast.json">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/themes/contrast.json</file>
+<file alias="resources/themes/dark.json">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/themes/dark.json</file>
+<file alias="resources/themes/default.json">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/themes/default.json</file>
+<file alias="resources/themes/molo.json">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/themes/molo.json</file>
+<file alias="resources/themes/one_dark.json">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/themes/one_dark.json</file>
+<file alias="resources/themes/contrast_close.png">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/themes/contrast_close.png</file>
+<file alias="resources/themes/dark_close.png">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/themes/dark_close.png</file>
+</qresource>
+</RCC>

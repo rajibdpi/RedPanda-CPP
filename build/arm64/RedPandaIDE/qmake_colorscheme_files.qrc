@@ -1,0 +1,22 @@
+<!DOCTYPE RCC><RCC version="1.0">
+<qresource prefix="/">
+<file alias="resources/colorschemes/Adaptive.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Adaptive.scheme</file>
+<file alias="resources/colorschemes/Classic_Plus.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Classic_Plus.scheme</file>
+<file alias="resources/colorschemes/E-ink.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/E-ink.scheme</file>
+<file alias="resources/colorschemes/GSS_Hacker.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/GSS_Hacker.scheme</file>
+<file alias="resources/colorschemes/Intellij_Classic.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Intellij_Classic.scheme</file>
+<file alias="resources/colorschemes/Matrix.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Matrix.scheme</file>
+<file alias="resources/colorschemes/MoLo_CBLight.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/MoLo_CBLight.scheme</file>
+<file alias="resources/colorschemes/MoLo_CodeBlack.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/MoLo_CodeBlack.scheme</file>
+<file alias="resources/colorschemes/MoLo_Mia.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/MoLo_Mia.scheme</file>
+<file alias="resources/colorschemes/Monokai.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Monokai.scheme</file>
+<file alias="resources/colorschemes/Obsidian.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Obsidian.scheme</file>
+<file alias="resources/colorschemes/Obvilion.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Obvilion.scheme</file>
+<file alias="resources/colorschemes/Ochre_Butter.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Ochre_Butter.scheme</file>
+<file alias="resources/colorschemes/One_Dark.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/One_Dark.scheme</file>
+<file alias="resources/colorschemes/Plastic_Code_Wrap.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Plastic_Code_Wrap.scheme</file>
+<file alias="resources/colorschemes/Sea_Lite.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Sea_Lite.scheme</file>
+<file alias="resources/colorschemes/Twilight.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/Twilight.scheme</file>
+<file alias="resources/colorschemes/VS_Code.scheme">/Users/rajib/RedPanda-CPP/RedPandaIDE/resources/colorschemes/VS_Code.scheme</file>
+</qresource>
+</RCC>
